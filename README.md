@@ -16,9 +16,9 @@ This repository contains advanced network simulations and diagnostic reports dev
 
 ## Repository Structure
 
-• /Simulations (.pkt): Original Cisco Packet Tracer files for various network topologies (Star, Mesh, Redundant).
+• /PKT_FIles (.pkt): Original Cisco Packet Tracer files for various network topologies (Star, Mesh, Redundant).
 
-• /Lab-Reports (.pdf): Detailed technical documentation explaining the logic, screenshots of CLI commands (show ip route, show spanning-tree), and diagnostic results.
+• /PDF_Reports (.pdf): Detailed technical documentation explaining the logic, screenshots of CLI commands (show ip route, show spanning-tree), and diagnostic results.
 
 
 ## Skills Demonstrated
