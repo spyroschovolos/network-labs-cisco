@@ -29,8 +29,3 @@ This repository contains advanced network simulations and diagnostic reports dev
 
 • Troubleshooting: Analyzing ARP tables and DNS resolution errors to fix LAN/WAN issues.
 
-
-## Sample Topology Logic
-In the STP lab, I successfully configured a redundant network where Switch 3 was elected as the Root Bridge, and specific ports were automatically blocked (Alternate state) to prevent broadcast storms, ensuring 100% network stability.
-
-![Network Topology](topology_screenshot.png)
